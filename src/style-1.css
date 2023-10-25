@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Roboto:wght@100&family=Rubik&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+
+    font-family: Dancing Script;
+    background-color: black;
+   
+}
+
+.conteudo {
+
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 90vh;
+
+}
+
+.conteudo h1 {
+
+   
+  text-align: center;
+  padding-bottom: 40px;
+  margin-top: 40px;  
+
+
+}
+
+p {
+    text-align: right;
+}
+
+

@@ -1,0 +1,21 @@
+@media(max-width: 800px) {
+    .container {
+
+      width: 100vw;  
+    }
+
+    .panel.active {
+
+ flex: 3;
+ border-radius: 20px;
+    }
+   .panel h3 {
+
+    left: 0px;
+    margin-top: 10px;
+    
+   }
+
+}
+
+  
